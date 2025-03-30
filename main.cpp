@@ -1,7 +1,10 @@
 /*
 Asignacion 6: Figuras en 3d
 Juan F. Torré García
-801-24
+801-24-9424
+CCOM3033-002
+Profa.Lillian Gonzalez
+30 de marzo del 2025
 */
 #include <iostream>
 #include <iomanip> 
